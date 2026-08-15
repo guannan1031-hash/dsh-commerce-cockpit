@@ -25,7 +25,7 @@ DeepSeek Harness Web profile 下，npm 包（`@ekzc/dsh-commerce-cockpit`，即�
 
 公开包为**混淆演示版**（功能完整可体验）。深度定制请直接联系作者：
 
-**guannan1031@gmail.com · guannan1031@163.com**
+**微信 lijieai2025（备注：电商驾驶舱定制）· guannan1031@gmail.com · guannan1031@163.com**
 
 - 真实店铺/平台数据接入（天猫/京东/拼多多/抖音/Shopify API 或报表）
 - 私有归因逻辑 / 专属报表 / 多店铺多品牌
