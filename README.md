@@ -19,7 +19,7 @@
 
 ## 安装 / Install
 
-DeepSeek Harness Web profile 下，npm 包（`@ekzc/dsh-commerce-cockpit`，即将发布）+ `cordis.patch.yml` 一行，重启即常驻。详见安装说明。
+DeepSeek Harness Web profile 下，npm 包：`@guannan1031/dsh-commerce-cockpit`（已发布）+ `cordis.patch.yml` 一行，重启即常驻。详见安装说明。
 
 ## 定制与合作 / Customization
 
