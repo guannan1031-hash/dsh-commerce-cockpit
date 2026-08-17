@@ -5,8 +5,8 @@
 
 回答老板每天早上问的四个问题 / Answers the four questions a founder asks every morning:
 **今天哪里赚钱/亏钱 → 为什么变 → 下一步做什么 → 谁负责、何时完成**
+<img width="2280" height="1132" alt="image" src="https://github.com/user-attachments/assets/c5db9b32-f777-48de-b99d-ecb9f2aee5ab" />
 
-![screenshot placeholder](https://placehold.co/800x420/0F1E3D/EEF4FF?text=Cockpit+Overview+%E2%80%94+KPI+%2F+Trend+%2F+Channels)
 
 ## 功能亮点 / Highlights
 
